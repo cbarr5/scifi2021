@@ -1,15 +1,12 @@
-title: New Title
+title: Live To Build A Better World
 collection:
-  - https://archipelago-dev.library.tamu.edu/do/7013bc1f-0351-41e2-9ecb-20635e7b6d49/metadata/iiifmanifest3collection/default.jsonld
+  - https://api.library.tamu.edu/iiif-service/fedora/collection/3b/6f/c3/25/3b6fc325-f6ca-41d8-b91e-8c5db3be8c13/scifi-exhibit-2021
 metadata:
   - Subject
   - Date
   - Language
   - Genre
 featured:
-  - "https://archipelago-dev.library.tamu.edu/do/f24258c3-5515-49c4-b145-dee1a9a0f257/metadata/iiifmanifest/default.jsonld"
-  - "https://archipelago-dev.library.tamu.edu/do/6bed4878-9a26-493d-8442-6ed8b6c9d4e7/metadata/iiifmanifest/default.jsonld"
-  - "https://archipelago-dev.library.tamu.edu/do/79570fde-c132-4ff9-97f0-833f967b5d38/metadata/iiifmanifest/default.jsonld"
 search:
   page:
     title: Search
